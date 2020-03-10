@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "LCD_Test_serial_float_formatting/LCD_Test_serial_float_formatting.ino"
+}
