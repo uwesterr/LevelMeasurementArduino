@@ -7,7 +7,7 @@ The app displays the Yaw-Pitch-Roll measurement of a sensor on an LCD screen. Th
 - The IMU MPU-6050 Accelerometer + Gyro is used to measure the level via the accelerometers  
 
  <figure>
-  <img src="images/MPU6050.jpeg" width="20%" height="20%" class="center">>
+  <img src="images/MPU6050.jpeg" width="20%" height="20%" class="center">
   <figcaption>Sensor MPU 6050</figcaption>
 </figure> 
  
