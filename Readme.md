@@ -12,4 +12,4 @@ It needs the following libraries
     - measures level
 
 
-   <img src="images/LevelMeasure.png" width="40%" height="40%">
+   <img src="images/LevelMeasure.png" width="30%" height="30%">
