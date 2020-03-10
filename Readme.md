@@ -11,5 +11,12 @@ It needs the following libraries
 - MPU6050_6Axis_MotionApps20.h
     - measures level
 
+See below a foto of the display
+
+---
+  
+    
+    
+
 
    <img src="images/LevelMeasure.png" width="30%" height="30%">
