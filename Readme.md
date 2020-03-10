@@ -11,4 +11,4 @@ It needs the following libraries
 - MPU6050_6Axis_MotionApps20.h
     - measures level
 
-    ![alt text](images/LevelMeasure.png "Logo Title Text 1 width=50%")
+    ![alt text](images/LevelMeasure.png "Logo Title Text 1 width=10%")
