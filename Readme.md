@@ -35,7 +35,7 @@ The app needs the following libraries
 - `TFTv2.h`
     - For the LCD screen ILI9341
 - `MPU6050_6Axis_MotionApps20.h`
-    - measures level
+    - communicate with MPU 6050 via I2C
 
 
 # Wiring
