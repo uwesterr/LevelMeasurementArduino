@@ -2,7 +2,7 @@
 
 The app displays the Yaw-Pitch-Roll measurement of a sensor on an LCD screen. This shall help to place a camper level so that one doesn't fall out of bed.
 
-- The file [`LCD_Test_serial_float_formatting.ino`](https://github.com/uwesterr/LevelMeasurementArduino/tree/master/LCD_Test_serial_float_formatting)] has the sketch which runs on the Arduino UNO.  
+- The file [`LCD_Test_serial_float_formatting.ino`](https://github.com/uwesterr/LevelMeasurementArduino/tree/master/LCD_Test_serial_float_formatting) has the sketch which runs on the Arduino UNO.  
 - As screen the Arduino Shield - Display 2,8", Touch, 320 x 240, ILI9341 is used
 - The IMU MPU-6050 Accelerometer + Gyro is used to measure the level via the accelerometers  
 
