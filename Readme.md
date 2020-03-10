@@ -11,5 +11,5 @@ It needs the following libraries
 - MPU6050_6Axis_MotionApps20.h
     - measures level
 
-    ![alt text](images/LevelMeasure.png width="40%")
-    <img src="images/LevelMeasure.png" width="40%">
+
+   <img src="images/LevelMeasure.png" width="40%">
