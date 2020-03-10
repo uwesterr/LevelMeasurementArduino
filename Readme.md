@@ -16,7 +16,7 @@ See below a foto of the display
 ---
   
     
-    
 
 
-   <img src="images/LevelMeasure.png" width="30%" height="30%">
+
+   <img src="images/LevelMeasure.png" width="20%" height="20%">
