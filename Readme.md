@@ -3,7 +3,7 @@
 - The file **LCD_Test_serial_float_formatting.ino** has the sketch which runs on the Arduino UNO.  
 - As screen the Arduino Shield - Display 2,8", Touch, 320 x 240, ILI9341 is used
 - The IMU MPU-6050 Accelerometer + Gyro is used to measure the level via the accelerometers  
-   <img src="images/MPU6050.jpeg" width="40%" height="40%">
+   <img src="images/MPU6050.jpeg" width="20%" height="20%">
 
 
 ## Software design
@@ -41,3 +41,7 @@ The app needs the following libraries
 # Wiring
 
 The sensor MPU 6050 needs 
+- VCC => Pin 5V of Arduino
+- GND => Pin GND of Arduino
+- SCL => Pin SCL of Arduino
+- SDA => Pin SDA of Arduino
