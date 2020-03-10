@@ -351,14 +351,14 @@ void loop() {
             lcd.clear();
 
 // ================================================================
-// ===                    write measured data ton screen        ===
+// ===                    write measured data to screen        ===
 // ================================================================
             // draw old values with background color to avoid multiple overwriting
             dtostrf(fMesswertPitch,7, 1, charMesswertPitch); // convert float to string
             dtostrf(fMesswertRoll,7, 1, charMesswertRoll);
             Tft.drawString(charMesswertPitch, 110, 50, 3, BLUE);
             Tft.drawString(charMesswertRoll, 110, 80, 3, BLUE);
-            fMesswertPitch = ypr[1] * 180/M_PI-fPitchOffset ;
+            fMesswertPitch = ypr[1] * 180/M_PI-fPitchOffset;
             fMesswertRoll = ypr[2] * 180/M_PI-fRollOffset;
             dtostrf(fMesswertPitch,7, 1, charMesswertPitch); // convert float to string
             dtostrf(fMesswertRoll,7, 1, charMesswertRoll);
