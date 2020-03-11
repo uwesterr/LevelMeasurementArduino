@@ -1,5 +1,11 @@
 # Measure level of camper with MPU6050 and arduino UNO
 
+The project was done by Mark and Uwe and is therefore called
+M: machts
+A: aufstellen
+U: unheimlich
+E: einfach
+
 The app displays the Yaw-Pitch-Roll measurement of a sensor on an LCD screen. This shall help to place a camper level so that one doesn't fall out of bed.
 
 - The file [`LCD_Test_serial_float_formatting.ino`](https://github.com/uwesterr/LevelMeasurementArduino/tree/master/LCD_Test_serial_float_formatting) has the sketch which runs on the Arduino UNO.  
