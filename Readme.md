@@ -61,6 +61,14 @@ The app needs the following libraries
 
 # Wiring
 
+The wiring is a follows:
+ <figure>
+  <img src="images/Wiring.png" width="20%" height="20%" class="center">
+  <figcaption>Sensor MPU 6050</figcaption>
+</figure> 
+
+sourcd :https://fritzing.org/projects/mpu6050-gyro-sensor-with-arduino
+
 The sensor MPU 6050 needs 
 - VCC => Pin 5V of Arduino
 - GND => Pin GND of Arduino
