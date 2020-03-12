@@ -1,6 +1,6 @@
 # Measure level of camper with MPU6050 and arduino UNO
 
-The project was done by Mark and Uwe and is therefore called
+The project was done by Mark and Uwe and is therefore called  
 M: machts  
 A: aufstellen  
 U: unheimlich  
